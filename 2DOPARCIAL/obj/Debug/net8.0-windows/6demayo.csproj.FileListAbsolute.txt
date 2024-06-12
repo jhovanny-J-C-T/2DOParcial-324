@@ -1,0 +1,82 @@
+C:\Users\rodri\source\repos\6demayo\6demayo\bin\Debug\net8.0-windows\6demayo.exe
+C:\Users\rodri\source\repos\6demayo\6demayo\bin\Debug\net8.0-windows\6demayo.deps.json
+C:\Users\rodri\source\repos\6demayo\6demayo\bin\Debug\net8.0-windows\6demayo.runtimeconfig.json
+C:\Users\rodri\source\repos\6demayo\6demayo\bin\Debug\net8.0-windows\6demayo.dll
+C:\Users\rodri\source\repos\6demayo\6demayo\bin\Debug\net8.0-windows\6demayo.pdb
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\_6demayo.Form1.resources
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.AssemblyInfo.cs
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.dll
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\refint\6demayo.dll
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.pdb
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.genruntimeconfig.cache
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\ref\6demayo.dll
+C:\Users\rodri\source\repos\6demayo\6demayo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rodri\source\repos\6demayo\6demayo\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\6demayo\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.Up2Date
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\bin\Debug\net8.0-windows\6demayo.exe
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\bin\Debug\net8.0-windows\6demayo.deps.json
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\bin\Debug\net8.0-windows\6demayo.runtimeconfig.json
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\bin\Debug\net8.0-windows\6demayo.dll
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\bin\Debug\net8.0-windows\6demayo.pdb
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\_6demayo.Form1.resources
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.AssemblyInfo.cs
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.Up2Date
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.dll
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\refint\6demayo.dll
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.pdb
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\6demayo.genruntimeconfig.cache
+C:\Users\rodri\source\repos\6demayo - copia\6demayo\obj\Debug\net8.0-windows\ref\6demayo.dll
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.exe
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.deps.json
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.runtimeconfig.json
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.dll
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.pdb
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\bin\Debug\net8.0-windows\MySqlConnector.dll
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.AssemblyReference.cache
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\_6demayo.Form1.resources
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.GenerateResource.cache
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.GeneratedMSBuildEditorConfig.editorconfig
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.AssemblyInfoInputs.cache
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.AssemblyInfo.cs
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.CoreCompileInputs.cache
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.Up2Date
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.dll
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\refint\6demayo.dll
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.pdb
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.genruntimeconfig.cache
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\ref\6demayo.dll
+E:\OPTATIVA\INF-324\Segundo Parcial\Examen2\6demayo\obj\Debug\net8.0-windows\_6demayo.Properties.Resources.resources
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.dll
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\refint\6demayo.dll
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.pdb
+C:\Users\condo\Desktop\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.exe
+C:\Users\condo\Desktop\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.deps.json
+C:\Users\condo\Desktop\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.runtimeconfig.json
+C:\Users\condo\Desktop\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.dll
+C:\Users\condo\Desktop\Examen2\6demayo\bin\Debug\net8.0-windows\6demayo.pdb
+C:\Users\condo\Desktop\Examen2\6demayo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\condo\Desktop\Examen2\6demayo\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.AssemblyReference.cache
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\_6demayo.Form1.resources
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\_6demayo.Properties.Resources.resources
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.GenerateResource.cache
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.AssemblyInfoInputs.cache
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.AssemblyInfo.cs
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.CoreCompileInputs.cache
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.csproj.Up2Date
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\6demayo.genruntimeconfig.cache
+C:\Users\condo\Desktop\Examen2\6demayo\obj\Debug\net8.0-windows\ref\6demayo.dll
